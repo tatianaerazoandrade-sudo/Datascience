@@ -1,0 +1,24 @@
+enter positive number
+while number > zero add to list
+if number = to zero stop
+print the largest number 
+
+
+enter your name
+input first_name
+print "Hello, World!" + first_name
+
+read numbers 
+calculate the arithmetic average by dividing the sum by the count of numbers 
+print average  
+
+read grocery list
+sort the list alphabetically
+print products to buy 
+
+
+read the two numbers
+calculate S that is the sum 
+calculate A that is the average 
+calculate P that is the product
+print the values S, A and P
